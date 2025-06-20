@@ -44,3 +44,4 @@ text-reader-extension/
 ├── popup.js # Sends user commands to content script
 ├── content.js # Handles speech actions
 └── icon.png # Extension icon
+![image](https://github.com/user-attachments/assets/c12b0ca1-94ea-48bc-b8e0-4424aeb7c23a)
