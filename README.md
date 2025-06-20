@@ -27,8 +27,9 @@ This is a Chrome Extension that allows users to select text on any webpage and h
 
 1. Visit any website (e.g., `https://example.com`).
 2. Select the text you want to read aloud.
-3. Click the extension icon.
-4. Use the buttons:
+3. ![image](https://github.com/user-attachments/assets/c12b0ca1-94ea-48bc-b8e0-4424aeb7c23a)
+4. Click the extension icon.
+5. Use the buttons:
    - 🔊 **Read** – Start speaking the selected text
    - ⏸ **Pause** – Pause the speech
    - ▶ **Resume** – Continue reading
@@ -44,4 +45,4 @@ text-reader-extension/
 ├── popup.js # Sends user commands to content script
 ├── content.js # Handles speech actions
 └── icon.png # Extension icon
-![image](https://github.com/user-attachments/assets/c12b0ca1-94ea-48bc-b8e0-4424aeb7c23a)
+
