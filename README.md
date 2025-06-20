@@ -38,3 +38,9 @@ This is a Chrome Extension that allows users to select text on any webpage and h
 
 ## 📂 Project Structure
 
+text-reader-extension/
+├── manifest.json # Extension configuration
+├── popup.html # UI popup with controls
+├── popup.js # Sends user commands to content script
+├── content.js # Handles speech actions
+└── icon.png # Extension icon
